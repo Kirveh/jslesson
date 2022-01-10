@@ -1,5 +1,3 @@
-const v = 7
-let x = "Second variable"
 let title
 let screens
 let screenPrice
